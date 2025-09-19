@@ -5,7 +5,7 @@
  *
  * Curso: CC3086 Programacion de Microprocesadores
  * Laboratorio 7: Compresion Paralela con Pthreads
- * Estudiante: [Tu nombre aquí]
+ * Estudiante: FATIMA NAVARRO
  * ------------------------------------------------------------
  */
 
