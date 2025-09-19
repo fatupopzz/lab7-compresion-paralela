@@ -1,0 +1,16 @@
+# Binarios
+compresor
+*.bin
+*.out
+
+# Archivos temporales
+temp_*
+*.tmp
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+*.swp
+*.swo
